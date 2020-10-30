@@ -12,3 +12,6 @@ A live video in which only blue color is detected
 3. You have create the mask of the blue color that you want to extract from the live video by giving high and low range values.
 4. Finally you have to perform `bitwise-and` operation on the frame and the mask.
 5. Display the video
+
+# Output Video 
+[Video](https://github.com/varshakr1298/Color-Detection-Using-HSV-Colorspace/blob/master/BlueColorDetection.mp4) in which blue color is detected
